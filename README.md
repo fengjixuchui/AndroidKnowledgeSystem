@@ -65,9 +65,9 @@
 
 # GitBook
 
-以 GitBook 电子书的形式来展现本项目，阅读体验好，界面清爽又方便管理，[马上开启阅读吧！](https://feelschaotic.gitbook.io/android-knowledge-system/)（需自备梯子）
+以 GitBook 电子书的形式来展现本项目，阅读体验好，界面清爽又方便管理，[马上开启阅读吧！](https://feelschaotic.gitbook.io/android-knowledge-system/)
 
-![](https://i.loli.net/2020/01/08/P9rivjR5dAsDLJw.png)
+![](https://s2.ax1x.com/2020/01/09/lfQc24.md.png)
 
 > - 添加 gitbook-plugin-search-pro 插件支持中文搜索
 > - 添加 Splitter 插件支持 GitBook 侧边栏目录的宽度可以自由调节
@@ -94,13 +94,13 @@
 
 遗憾的是目前只有中文版本，诚挚邀请各位小伙伴，**一起参与英文版的制作**（身为英语渣渣的痛~）。
 
-> 想了解如何参与翻译计划？这里有份[维护指南送上](https://github.com/feelschaotic/AndroidKnowledgeSystem/wiki/%E5%8F%82%E4%B8%8E%E7%BB%B4%E6%8A%A4%E6%8C%87%E5%8D%97)。
+> 想了解如何参与翻译计划？这里有份[翻译计划参与指南送上](https://github.com/feelschaotic/AndroidKnowledgeSystem/wiki/%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92%E5%8F%82%E4%B8%8E%E6%8C%87%E5%8D%97)。
 
 ## 诚邀你一起维护
 
 术业有专攻，你可以自由**选择**知识体系里擅长或感兴趣的知识点，编写导读、学习方式和资料推荐。**写下来本身就是一个促进思考整理的过程喔！**
 
-> 想了解如何参与维护？这里有份[维护指南送上](https://github.com/feelschaotic/AndroidKnowledgeSystem/wiki/%E5%8F%82%E4%B8%8E%E7%BB%B4%E6%8A%A4%E6%8C%87%E5%8D%97)。
+> 想了解如何参与维护？这里有份[维护参与指南送上](https://github.com/feelschaotic/AndroidKnowledgeSystem/wiki/%E7%BB%B4%E6%8A%A4%E5%8F%82%E4%B8%8E%E6%8C%87%E5%8D%97)。
 
 ## 更新计划
 
